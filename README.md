@@ -1,4 +1,4 @@
-# DSC210_FA24_Group25
+# DSC210_FA24_Group25: Cryptography
 
 ## Course: DSC 210: Numerical Linear Algebra
 
